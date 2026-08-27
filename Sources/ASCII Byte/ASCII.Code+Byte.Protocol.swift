@@ -10,7 +10,7 @@ extension ASCII.Code: Byte.`Protocol` {
 
     @inlinable
     public init(_ byte: Byte) throws(Self.Error) {
-        guard byte.underlying < 0x80 else { throw .notASCII(byte: byte) }
+        guard ASCII.isASCII(byte.underlying) else { throw .notASCII(byte: byte) }
         self.init(byte.underlying)
     }
 
@@ -22,30 +22,26 @@ extension ASCII.Code: Byte.`Protocol` {
 
 extension ASCII.Code {
 
-    @inlinable
-    public static var zero: ASCII.Code { ASCII.Code(unchecked: Byte(0x00)) }
+    public static var zero: ASCII.Code { ASCII.Code.nul }
 
-    @inlinable
-    public static var max: ASCII.Code { ASCII.Code(unchecked: Byte(0x7F)) }
+    public static var max: ASCII.Code { ASCII.Code.del }
 }
 
-extension ASCII.Code: ExpressibleByIntegerLiteral {
+extension ASCII.Code: @retroactive ExpressibleByIntegerLiteral {
 
     @_disfavoredOverload
     @inlinable
     public init(integerLiteral value: UInt8.IntegerLiteralType) {
         let u = UInt8(integerLiteral: value)
         precondition(
-            u < 0x80,
+            ASCII.isASCII(u),
             "ASCII.Code integer literal must be in 0x00...0x7F (got 0x\(String(u, radix: 16)))"
         )
         self.init(unchecked: Byte(u))
     }
 }
 
-extension ASCII.Code: Equatable {}
-extension ASCII.Code: Hashable {}
-extension ASCII.Code: Comparable {}
+extension ASCII.Code: @retroactive Comparable {}
 
 extension ASCII.Code {
 

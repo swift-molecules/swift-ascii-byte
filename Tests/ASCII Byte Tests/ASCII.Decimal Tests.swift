@@ -70,3 +70,30 @@ extension ASCII.Decimal.Tests.`Edge Case` {
         #expect(buffer == Array("-9223372036854775808".utf8).map(Byte.init))
     }
 }
+
+extension ASCII.Decimal.Tests.Unit {
+
+    @Test
+    func `serialize unsigned integer into Byte buffer`() {
+        var buffer: [Byte] = []
+        ASCII.Decimal.serialize(UInt16(42), into: &buffer)
+
+        #expect(buffer == Array("42".utf8).map(Byte.init))
+    }
+
+    @Test
+    func `serialize signed integer into Byte buffer`() {
+        var buffer: [Byte] = []
+        ASCII.Decimal.serialize(Int16(-42), into: &buffer)
+
+        #expect(buffer == Array("-42".utf8).map(Byte.init))
+    }
+
+    @Test
+    func `serialization appends to an existing Byte buffer`() {
+        var buffer = [Byte(0x58)]
+        ASCII.Decimal.serialize(UInt8(7), into: &buffer)
+
+        #expect(buffer == Array("X7".utf8).map(Byte.init))
+    }
+}

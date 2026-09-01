@@ -1,0 +1,23 @@
+{
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/checkouts/swift-ascii/Sources/ASCII/ASCII.Code.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Code.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Code.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Code.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Code.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Code.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/checkouts/swift-ascii/Sources/ASCII/ASCII.Decimal.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Decimal.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Decimal.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Decimal.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Decimal.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Decimal.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/checkouts/swift-ascii/Sources/ASCII/ASCII.Digits.Count.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Digits.Count.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Digits.Count.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Digits.Count.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Digits.Count.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-ascii-byte/.build/out/Intermediates.noindex/swift-ascii.build/Debug/ASCII-t.build/Objects-normal/arm64/ASCII.Digits.Count.swiftdeps"
+  }
+}

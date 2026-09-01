@@ -1,0 +1,223 @@
+[
+  {
+    "isFramework" : false,
+    "moduleName" : "ASCII",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/ASCII.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ASCII_Byte",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/ASCII_Byte.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Byte",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Byte.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Byte_Protocol",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Byte_Protocol.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Byte_Standard_Library_Integration",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Byte_Standard_Library_Integration.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Carrier",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Carrier.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Carrier_Protocol",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Carrier_Protocol.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Carrier_Standard_Library_Integration",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Products\/Debug\/Carrier_Standard_Library_Integration.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Darwin.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/ObjectiveC.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Swift.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/SwiftOnoneSupport.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Testing",
+    "modulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/Testing-3S2OBJGKFJUKQ.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_Builtin_float.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_Concurrency.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation1.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation2.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation3.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_StringProcessing.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-8757WJYJ5974RJE2SUUTOIEP9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-8TKGIHGIVTS40TP0VEUFOPBRX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-8ITRI7RCG5VR7D3H0AC879O45.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-BR3AF09U2OF2I6XG95NV4PK3U.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-5EJUZ6D6228DRTD11OA9FBXHE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-D3SJY2QS6OLL94KE7EMA1SUK0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-EU6DHZA89C0BW2PO6H58P3D41.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-ENUGZVBEE0IGH36I2W8YXWPJK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-2UVMEPPHLY5U4153W1K3IRXSX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-DDAIV9B3K3RNFCO3OCPM6KGTV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-3T72KHFJP7EHCX6R4ZQ64QMAB.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-6FWED35TRZ76KWL7POHQXAAXO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-662QO9O5S4JRGX3Z9ECXPFGLT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-2725IGJCJI5GUHO3V1XCHJM1I.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-7CK5N6DTKSPCIARAI595GNR2R.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-4N7W05JV0WC8OOGCNCFBAVKYU.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-9IOO3N04FYCJXCNGVGHNALRVO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode-beta.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/coen\/Developer\/coenttb\/swift-institute\/swift-molecules\/swift-ascii-byte\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-EDUJ0CN9MPNYOT2SBFVI6XXMM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]

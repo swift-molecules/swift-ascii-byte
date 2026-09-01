@@ -1,0 +1,4 @@
+module Byte_Standard_Library_Integration {
+header "Byte Standard Library Integration-Swift.h"
+export *
+}

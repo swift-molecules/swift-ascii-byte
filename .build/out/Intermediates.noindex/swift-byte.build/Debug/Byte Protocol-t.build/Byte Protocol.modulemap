@@ -1,4 +1,0 @@
-module Byte_Protocol {
-header "Byte Protocol-Swift.h"
-export *
-}

@@ -1,4 +1,0 @@
-module ASCII {
-header "ASCII-Swift.h"
-export *
-}

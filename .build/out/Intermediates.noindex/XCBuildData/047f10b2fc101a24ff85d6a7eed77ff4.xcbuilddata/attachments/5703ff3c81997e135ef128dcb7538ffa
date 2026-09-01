@@ -1,4 +1,0 @@
-module ASCII_Byte {
-header "ASCII Byte-Swift.h"
-export *
-}
